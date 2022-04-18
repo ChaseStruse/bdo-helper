@@ -1,9 +1,10 @@
 import "./App.css";
+import FamilyFame from "./components/family-fame/family-fame";
 
 function App() {
   return (
     <div>
-      <h1>This is the app header</h1>
+      <FamilyFame />
     </div>
   );
 }

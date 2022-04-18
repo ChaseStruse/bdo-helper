@@ -1,0 +1,13 @@
+.fame-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 5%;
+  }
+  .combat-fame, .life-fame, .special-fame{
+    padding-right: 3%;
+  }
+  p{
+    font-size: large;
+  }
